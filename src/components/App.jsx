@@ -65,7 +65,7 @@ export const App = () => {
   );
 };
 
-
+// example 1
 
 // export const App = () => {
 //   const [good, setGood] = useState(0);
