@@ -1,0 +1,10 @@
+.text {
+    margin: 8px;
+}
+.textTotal {
+    font-size: 20px;
+}
+.textFeedback {
+    font-weight: 700;
+    font-size: 20px;
+}
